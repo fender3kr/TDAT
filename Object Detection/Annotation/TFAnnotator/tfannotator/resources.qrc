@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/plugins/tf_annotator" >
+        <file>icon/icon.png</file>
+        <file>icon/select.png</file>
+        <file>icon/fit.png</file>
+    </qresource>
+</RCC>

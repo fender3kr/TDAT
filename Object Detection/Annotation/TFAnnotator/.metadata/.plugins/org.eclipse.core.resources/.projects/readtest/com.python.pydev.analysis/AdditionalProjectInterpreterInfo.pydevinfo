@@ -1,0 +1,22 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/.metadata/.plugins/org.eclipse.core.resources/.projects/readtest/com.python.pydev.analysis/v2_indexcache
+Test|1538788170482231000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/readtest/Test.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/readtest/Test.py
+2=Test
+-- END DICTIONARY
+-- START TREE 1
+6
+exa|1|example!1^15#9*19@
+hei|1|height!1^19#9*19@
+ima|2|image!1^21#9*19@images!1^11#5*19@
+ite|1|iterator!1^12#5*19@
+lab|1|label!1^20#9*19@
+wid|1|width!1^18#9*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

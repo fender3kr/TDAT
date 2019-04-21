@@ -1,0 +1,23 @@
+MODULES_MANAGER_V2
+__init__|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/__init__.py
+help.source.conf|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/help/source/conf.py
+plugin_upload|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/plugin_upload.py
+resources|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/resources.py
+test.__init__|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/__init__.py
+test.qgis_interface|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/qgis_interface.py
+test.test_init|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_init.py
+test.test_qgis_environment|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_qgis_environment.py
+test.test_resources|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_resources.py
+test.test_tf_annotator_dockwidget|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_tf_annotator_dockwidget.py
+test.test_translations|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_translations.py
+test.utilities|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/utilities.py
+tf_annotator|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tf_annotator.py
+tf_annotator_dockwidget|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tf_annotator_dockwidget.py
+tools.InformationRetriever|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tools/InformationRetriever.py
+tools.SelectMapTool|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tools/SelectMapTool.py
+tools.__init__|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tools/__init__.py
+util.Annotation|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/Annotation.py
+util.ImageLoader|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/ImageLoader.py
+util.PBTXTWriter|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/PBTXTWriter.py
+util.TFUtil|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/TFUtil.py
+util.__init__|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/__init__.py

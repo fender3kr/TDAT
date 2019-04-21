@@ -1,0 +1,217 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/.metadata/.plugins/org.eclipse.core.resources/.projects/tfannotator/com.python.pydev.analysis/v2_indexcache
+tools.__init__|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tools/__init__.py
+resources|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/resources.py
+test.test_translations|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/utilities.py
+tools.SelectMapTool|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tools/SelectMapTool.py
+util.Annotation|1538234603469695000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/Annotation.py
+test.test_tf_annotator_dockwidget|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_tf_annotator_dockwidget.py
+plugin_upload|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/plugin_upload.py
+util.ImageLoader|1539353673618596000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/ImageLoader.py
+test.qgis_interface|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/qgis_interface.py
+test.test_init|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_init.py
+util.TFUtil|1538234883177982000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/TFUtil.py
+test.utilities|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/utilities.py
+help.source.conf|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/help/source/conf.py
+test.test_resources|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_resources.py
+tools.InformationRetriever|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tools/InformationRetriever.py
+util.PBTXTWriter|1538150523397921000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/PBTXTWriter.py
+tf_annotator|1538237610877943000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tf_annotator.py
+test.test_qgis_environment|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_qgis_environment.py
+__init__|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/__init__.py
+test.__init__|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_tf_annotator_dockwidget.py
+tf_annotator_dockwidget|1539356002933827000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tf_annotator_dockwidget.py
+util.__init__|1537986591516468000|/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/__init__.py
+-- END DISKCACHE
+-- START DICTIONARY
+70
+23=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/plugin_upload.py
+70=TFAnnotator.deselect
+5=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_resources.py
+57=SelectMapTool.canvasPressEvent
+60=PBTXTWriter.open
+14=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/Annotation.py
+47=InformationRetriever.retrieve
+58=SelectMapTool.canvasMoveEvent
+43=PBTXTWriter
+15=util.Annotation
+2=test.test_tf_annotator_dockwidget
+51=InformationRetriever.setCoordinates
+24=plugin_upload
+65=TFAnnotatorDockWidgetTest
+13=util.TFUtil
+19=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/__init__.py
+50=QgisInterface.__init__
+1=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_tf_annotator_dockwidget.py
+67=QGISTest
+28=tools.InformationRetriever
+35=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tf_annotator.py
+39=QgisInterface
+68=TestInit
+56=SelectMapTool.reset
+11=test.test_qgis_environment
+12=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/TFUtil.py
+25=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/ImageLoader.py
+7=test.__init__
+41=InformationRetriever
+69=TFAnnotator.select
+45=TFAnnotator
+64=SelectMapTool.__init__
+21=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/help/source/conf.py
+18=test.test_translations
+34=tools.SelectMapTool
+27=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tools/InformationRetriever.py
+3=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_init.py
+66=TFAnnotatorDialogTest
+4=test.test_init
+37=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tf_annotator_dockwidget.py
+22=help.source.conf
+30=util.PBTXTWriter
+31=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/resources.py
+36=tf_annotator
+59=PBTXTWriter.__init__
+20=__init__
+38=tf_annotator_dockwidget
+42=TFAnnotatorDockWidget
+16=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/utilities.py
+63=TFAnnotator.onClosePlugin
+44=SelectMapTool
+29=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/util/PBTXTWriter.py
+52=ImageLoader.__init__
+26=util.ImageLoader
+9=test.qgis_interface
+61=SelectMapTool.canvasReleaseEvent
+62=TFAnnotatorDockWidget.__init__
+6=test.test_resources
+10=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/test_qgis_environment.py
+49=Annotation.__init__
+33=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/tools/SelectMapTool.py
+8=/home/phantom/Repository/TDAT/Object Detection/Annotation/TFAnnotator/tfannotator/test/qgis_interface.py
+32=resources
+53=TFAnnotatorDockWidgetTest.setUp
+40=Annotation
+55=TFAnnotator.run
+54=TFAnnotatorDockWidgetTest.tearDown
+17=test.utilities
+48=TFAnnotator.__init__
+46=ImageLoader
+-- END DICTIONARY
+-- START TREE 1
+49
+__a|6|__author__!1^11#1*19@__author__!3^4#1*35@__author__!5^11#1*51@__author__!1^11#1*59@__author__!8^17#1*75@__author__!10^11#1*91@
+__c|6|__copyright__!1^13#1*19@__copyright__!10^14#1*91@__copyright__!3^8#1*35@__copyright__!5^13#1*51@__copyright__!8^24#1*75@__copyright__!1^13#1*59@
+__d|6|__date__!8^19#1*75@__date__!1^12#1*59@__date__!5^12#1*51@__date__!10^12#1*91@__date__!1^12#1*19@__date__!3^6#1*35@
+__l|1|__license__!3^7#1*35@
+__r|2|__revision__!8^18#1*75@__revision__!3^5#1*35@
+_by|1|_bytes_feature!12^11#5*106@
+_fl|1|_float_list_feature!12^14#5*106@
+_in|1|_int64_feature!12^8#5*106@
+ann|1|Annotation!14^6#7*121@
+can|2|CANVAS!16^10#1*139@CANVAS!16^10#1*147@
+cla|1|classFactory!19^28#5*162@
+cop|1|copyright!21^44#1*179@
+end|1|ENDPOINT!23^17#1*195@
+exc|1|exclude_patterns!21^67#1*179@
+ext|1|extensions!21^28#1*179@
+get|2|get_qgis_app!16^15#5*138@get_qgis_app!16^15#5*146@
+hid|1|hide_password!23^55#5*194@
+htm|3|html_theme!21^94#1*179@html_static_path!21^123#1*179@htmlhelp_basename!21^167#1*179@
+ifa|2|IFACE!16^12#1*139@IFACE!16^12#1*147@
+ima|1|ImageLoader!25^11#7*209@
+inf|1|InformationRetriever!27^9#7*225@
+lat|1|latex_documents!21^183#1*179@
+log|4|LOGGER!8^30#1*75@LOGGER!16^8#1*139@LOGGER!3^16#1*35@LOGGER!16^8#1*147@
+mai|1|main!23^21#5*194@
+man|1|man_pages!21^216#1*179@
+mas|1|master_doc!21^40#1*179@
+par|3|PARENT!16^11#1*147@PARENT!16^11#1*139@parser!23^73#5*195@
+pbt|1|PBTXTWriter!29^7#7*241@
+por|1|PORT!23^16#1*195@
+pro|2|project!21^43#1*179@PROTOCOL!23^14#1*195@
+pyg|1|pygments_style!21^84#1*179@
+qcl|1|qCleanupResources!31^312#5*258@
+qgi|7|QGIS_APP!1^23#1*19@QGIS_APP!1^23#1*59@QGIS_APP!16^9#1*139@QGIS_APP!10^24#1*91@QgisInterface!8^34#7*73@QGISTest!10^27#7*89@QGIS_APP!16^9#1*147@
+qin|1|qInitResources!31^309#5*258@
+qt_|6|qt_resource_struct!31^304#5*259@qt_resource_name!31^272#1*259@qt_resource_struct_v1!31^282#1*259@qt_resource_struct_v2!31^299#1*259@qt_resource_data!31^245#1*259@qt_version!31^301#1*259@
+rcc|1|rcc_version!31^303#5*259@
+rel|1|release!21^53#1*179@
+res|1|res!23^99#9*195@
+run|3|runner!1^43#5*19@runner!1^43#5*59@runner!5^40#5*51@
+saf|0|
+sel|1|SelectMapTool!33^14#7*273@
+ser|1|SERVER!23^15#1*195@
+sou|1|source_suffix!21^34#1*179@
+sui|3|suite!1^42#5*19@suite!1^42#5*59@suite!5^39#5*51@
+tem|1|templates_path!21^31#1*179@
+tes|1|TestInit!3^19#7*33@
+tfa|5|TFAnnotator!35^33#7*289@TFAnnotatorDockWidgetTest!1^26#7*57@TFAnnotatorDockWidget!37^49#7*305@TFAnnotatorDockWidgetTest!1^26#7*17@TFAnnotatorDialogTest!5^21#7*49@
+use|1|username!23^97#9*195@
+ver|2|version!21^51#1*179@VERBOSE!23^18#1*195@
+-- END TREE
+-- START TREE 2
+63
+__i|8|__init__!39&8^42#9*74@__init__!40&14^7#9*122@__init__!41&27^10#9*226@__init__!42&37^53#9*306@__init__!43&29^8#9*242@__init__!44&33^15#9*274@__init__!45&35^34#9*290@__init__!46&25^12#9*210@
+abs|4|absoluteTop!47&27^40#9*227@absoluteBottom!47&27^43#9*227@absoluteRight!47&27^42#9*227@absoluteLeft!47&27^39#9*227@
+act|2|activeLayer!39&8^150#9*74@actions!48&35^48#9*291@
+add|10|addToolBar!39&8^173#9*74@add_action!45&35^60#9*290@addLabelButtonClicked!42&37^90#9*306@addLayer!39&8^84#9*74@addLayers!39&8^62#9*74@addToolBarIcon!39&8^157#9*74@addRasterLayer!39&8^139#9*74@addAnnotationButtonClicked!42&37^113#9*306@addVectorLayer!39&8^125#9*74@addDockWidget!39&8^192#9*74@
+bot|2|bottom!49&14^11#9*123@bottom!47&27^23#13*227@
+can|4|canvasReleaseEvent!44&33^38#9*274@canvasMoveEvent!44&33^62#9*274@canvasPressEvent!44&33^30#9*274@canvas!50&8^47#9*75@
+cle|1|clearButtonClicked!42&37^215#9*306@
+clo|3|close!43&29^21#9*242@closingPlugin!42&37^51#5*307@closeEvent!42&37^243#9*306@
+con|2|controlSelectionAction!45&35^127#9*290@convert2Jpeg!46&25^32#9*210@
+coo|2|coord1!51&27^49#9*227@coord2!51&27^50#9*227@
+crs|1|crs!47&27^46#9*227@
+cur|2|currentLayerChanged!39&8^40#5*75@currentRowChanged!42&37^168#9*306@
+dat|2|dataset!52&25^13#9*211@dataSource!47&27^45#9*227@
+dea|1|deactivate!44&33^117#9*274@
+del|2|deleteLabelButtonClicked!42&37^102#9*306@deleteAnnotationButtonClicked!42&37^156#9*306@
+dep|1|depth!52&25^16#9*211@
+des|2|destCrs!50&8^59#9*75@deselect!45&35^122#9*290@
+doc|6|dockwidget!53&1^31#9*19@dockwidget!54&1^35#9*19@dockwidget!53&1^31#9*59@dockwidget!54&1^35#9*59@dockwidget!48&35^54#9*291@dockwidget!55&35^104#17*291@
+end|6|end!56&33^24#9*275@end!57&33^33#9*275@end!58&33^66#9*275@endCoordinate!56&33^25#9*275@endCoordinate!57&33^34#9*275@endCoordinate!58&33^67#9*275@
+exp|2|export!42&37^251#9*306@exportButtonClicked!42&37^223#9*306@
+fil|2|file!59&29^9#9*243@file!60&29^12#9*243@
+fit|1|fitCRS!45&35^116#9*290@
+get|8|getCRS!41&27^67#9*226@getInformation!44&33^114#9*274@getDataSource!41&27^61#9*226@getLayer!41&27^64#9*226@getAbsoluteSelection!41&27^58#9*226@getSelection!41&27^55#9*226@getCoordinates!41&27^52#9*226@getRectangle!44&33^87#9*274@
+hei|1|height!52&25^15#9*211@
+ifa|1|iface!48&35^35#9*291@
+ind|1|index!49&14^13#9*123@
+ini|1|initGui!45&35^82#9*290@
+ise|3|isEmittingPoint!56&33^26#9*275@isEmittingPoint!57&33^35#9*275@isEmittingPoint!61&33^39#9*275@
+isv|1|isValid!44&33^96#9*274@
+lab|1|label!49&14^14#9*123@
+lay|1|layer!47&27^28#9*227@
+lef|2|left!47&27^15#13*227@left!49&14^10#9*123@
+leg|1|legendInterface!39&8^203#9*74@
+loa|1|load!46&25^18#9*210@
+mai|1|mainWindow!39&8^185#9*74@
+map|1|mapCanvas!39&8^181#9*74@
+men|1|menu!48&35^49#9*291@
+mod|1|model!62&37^71#9*307@
+new|1|newProject!39&8^102#9*74@
+onc|1|onClosePlugin!45&35^88#9*290@
+ope|1|open!43&29^11#9*242@
+pat|1|path!49&14^8#9*123@
+plu|4|plugin_dir!48&35^36#9*291@pluginIsActive!48&35^53#9*291@pluginIsActive!63&35^90#9*291@pluginIsActive!55&35^101#13*291@
+rem|2|removeToolBarIcon!39&8^165#9*74@removeAllLayers!39&8^98#9*74@
+res|2|resetSelectionBand!42&37^248#9*306@reset!44&33^23#9*274@
+ret|3|retriever!56&33^28#9*275@retriever!61&33^58#9*275@retrieve!41&27^13#9*226@
+rig|2|right!47&27^16#13*227@right!49&14^12#9*123@
+rub|1|rubberBand!64&33^18#9*275@
+run|1|run!45&35^99#9*290@
+sel|2|select!45&35^110#9*290@selectionBand!62&37^86#9*307@
+set|4|setUp!65&1^29#9*58@setCoordinates!41&27^48#9*226@setUp!65&1^29#9*18@setUp!66&5^24#9*50@
+sho|1|showRect!44&33^70#9*274@
+sta|4|start!56&33^24#9*275@start!57&33^31#9*275@startCoordinate!56&33^25#9*275@startCoordinate!57&33^32#9*275@
+tea|3|tearDown!65&1^33#9*18@tearDown!65&1^33#9*58@tearDown!66&5^28#9*50@
+tes|6|test_icon_png!66&5^32#9*50@test_projection!67&10^38#9*90@test_dockwidget_ok!65&1^37#9*58@test_dockwidget_ok!65&1^37#9*18@test_read_init!68&3^30#9*34@test_qgis_environment!67&10^30#9*90@
+too|3|toolbar!48&35^50#9*291@tool!69&35^112#9*291@tool!70&35^125#13*291@
+top|2|top!47&27^22#13*227@top!49&14^9#9*123@
+tr|1|tr!45&35^56#9*290@
+tra|1|translator!48&35^42#13*291@
+unl|1|unload!45&35^92#9*290@
+wid|1|width!52&25^14#9*211@
+wri|1|write!43&29^14#9*242@
+zoo|4|zoomToNext!39&8^117#9*74@zoomToPrevious!39&8^113#9*74@zoomToActiveLayer!39&8^121#9*74@zoomFull!39&8^109#9*74@
+-- END TREE
